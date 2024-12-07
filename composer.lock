@@ -8274,16 +8274,16 @@
         },
         {
             "name": "joetannenbaum/chewie",
-            "version": "0.1.9",
+            "version": "0.1.11",
             "source": {
                 "type": "git",
                 "url": "https://github.com/joetannenbaum/chewie.git",
-                "reference": "84ebd41ccc708651634e125a404e866cc996b991"
+                "reference": "7040f1c157e6756f45f49f4a821303cae3cfe424"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/joetannenbaum/chewie/zipball/84ebd41ccc708651634e125a404e866cc996b991",
-                "reference": "84ebd41ccc708651634e125a404e866cc996b991",
+                "url": "https://api.github.com/repos/joetannenbaum/chewie/zipball/7040f1c157e6756f45f49f4a821303cae3cfe424",
+                "reference": "7040f1c157e6756f45f49f4a821303cae3cfe424",
                 "shasum": ""
             },
             "require": {
@@ -8305,9 +8305,9 @@
             "notification-url": "https://packagist.org/downloads/",
             "support": {
                 "issues": "https://github.com/joetannenbaum/chewie/issues",
-                "source": "https://github.com/joetannenbaum/chewie/tree/0.1.9"
+                "source": "https://github.com/joetannenbaum/chewie/tree/0.1.11"
             },
-            "time": "2024-11-12T14:35:49+00:00"
+            "time": "2024-12-07T01:53:54+00:00"
         },
         {
             "name": "laravel/breeze",
