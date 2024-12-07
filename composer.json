@@ -7,13 +7,11 @@
     "require": {
         "php": "^8.2",
         "hirethunk/verbs": "^0.6.4",
-        "laravel/folio": "^1.0",
         "laravel/framework": "^11.0",
         "laravel/pail": "^1.1",
         "laravel/prompts": "^0.3",
         "laravel/tinker": "^2.0",
         "livewire/flux": "^1.0",
-        "livewire/flux-pro": "^1.0",
         "livewire/livewire": "^3.0",
         "livewire/volt": "^1.0",
         "panphp/pan": "^0.1.1"
